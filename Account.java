@@ -1,5 +1,5 @@
 package com.bankTest;
-import java.util.Scanner;
+
 class BankAccount{
 	int acNo;
 	String acName,acPhone,acEmail;
