@@ -58,6 +58,8 @@ public class Account {
 		sac.accountholder();
 		sac.deposit(500);
 		sac.displayBalance();
+
+	         System.out.println("\n\n");
 		
 		System.out.println("current ACCOUNT DETAILS");
 		currentAccount sacs=new currentAccount(1001,"Peter Smith","0765326688","admin@gmail.com",0.0);
